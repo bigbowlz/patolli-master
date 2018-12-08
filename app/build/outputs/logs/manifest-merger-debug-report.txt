@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:3:2-34
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+	android:targetSdkVersion
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:12-41
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:7:2-44
+		INJECTED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:9:2-34:16
+	android:label
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:11:3-26
+	android:icon
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:10:3-39
+	android:theme
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:12:3-34
+activity#ru.henridellal.patolli.PatolliActivity
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:13:3-21:14
+	android:screenOrientation
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:14:4-40
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:15:4-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:16:4-20:20
+action#android.intent.action.MAIN
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:17:5-57
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:17:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:19:15-62
+activity#ru.henridellal.patolli.GameActivity
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:22:3-25:14
+	android:screenOrientation
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:23:4-40
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:24:4-32
+activity#ru.henridellal.patolli.SettingsActivity
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:26:3-29:14
+	android:screenOrientation
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:27:4-40
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:28:4-36
+activity#ru.henridellal.patolli.TutorialActivity
+ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:30:3-33:14
+	android:screenOrientation
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:31:4-40
+	android:name
+		ADDED from E:\patolli-master-backup\patolli-master\app\src\main\AndroidManifest.xml:32:4-36

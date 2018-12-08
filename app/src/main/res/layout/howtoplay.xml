@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/howToPlay" >
+
+	<ImageView
+		android:layout_width="fill_parent"
+   	 android:layout_height="fill_parent"
+   	 android:background="@color/white"
+   	 android:layout_margin = "10dp"
+	/>
+	<ScrollView
+		android:layout_width="fill_parent"
+   	 android:layout_height="wrap_content"
+   	 android:layout_margin = "10dp"
+   	 >
+   	 <TextView
+			android:id="@+id/howToPlayText"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin = "10dp"
+			android:textSize = "20sp"
+   	 	android:text="Patolli is a board game which can be played by 2 players. The original game was created by Indians and has slightly different rules. The goal is to move four markers through the field faster than opponent. Players throw dice which has numbers from 1 to 4 and then choose one of the available moves.
+\nRemember that:
+\nIt\'s impossible to set your markers on the ends of lines.
+\nIt\'s possible to destroy opponent\'s markers in the center of game field. The markers are being moved to the start then."
+   	 	android:textColor="@color/black"
+   	 />
+	</ScrollView>
+	
+</FrameLayout>

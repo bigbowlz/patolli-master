@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\values-v11\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "84",
+                        "endOffsets": "135"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "86",
+                        "endOffsets": "137"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "78",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "1427",
+                        "endColumns": "80",
+                        "endOffsets": "1503"
+                    }
+                },
+                {
+                    "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "51,417",
+                        "endLines": "9,16",
+                        "endColumns": "8,8",
+                        "endOffsets": "415,684"
+                    },
+                    "to": {
+                        "startLines": "52,60",
+                        "startColumns": "4,4",
+                        "startOffsets": "1508,1863",
+                        "endLines": "59,65",
+                        "endColumns": "8,8",
+                        "endOffsets": "1858,2120"
+                    }
+                },
+                {
+                    "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "28,13,43,11,9,8,7,10,6,5",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "720,343,1076,304,226,191,152,263,115,77",
+                        "endLines": "41,26,56,11,9,8,7,10,6,5",
+                        "endColumns": "9,9,9,36,36,34,38,40,36,37",
+                        "endOffsets": "1072,716,1429,339,261,224,189,302,150,113"
+                    },
+                    "to": {
+                        "startLines": "2,16,30,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,410,786,1142,1182,1222,1260,1302,1346,1386",
+                        "endLines": "15,29,43,44,45,46,47,48,49,50",
+                        "endColumns": "9,9,9,39,39,37,41,43,39,40",
+                        "endOffsets": "405,781,1137,1177,1217,1255,1297,1341,1381,1422"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_gamescreen.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\layout\\gamescreen.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menubuttonshape.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\drawable\\menubuttonshape.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_renamedialog.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\layout\\renamedialog.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtoplay.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\layout\\howtoplay.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingsscreen.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\layout\\settingsscreen.xml"
+    },
+    {
+        "merged": "E:\\patolli-master-backup\\patolli-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\patolli-master-backup\\patolli-master\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="blueTheme">
+		<!-- Primary color -->
+		<item>#04BDEC</item>
+		<!-- Secondary color -->
+		<item>@color/white</item>
+		<!-- Additional color -->
+		<item>#7986CB</item>
+		<!-- First player color -->
+		<item>@color/green</item>
+		<!-- Second player color -->
+		<item>#FF406E</item>
+		<!-- Text color -->
+		<item>@color/black</item>
+	</array>
+    <array name="classicTheme">
+		<!-- Primary color -->
+		<item>@color/yellow</item>
+		<!-- Secondary color -->
+		<item>@color/white</item>
+		<!-- Additional color -->
+		<item>@color/red</item>
+		<!-- First player color -->
+		<item>@color/green</item>
+		<!-- Second player color -->
+		<item>@color/turquoise</item>
+		<!-- Text color -->
+		<item>@color/black</item>
+	</array>
+    <array name="greenTheme">
+		<!-- Primary color -->
+		<item>#33AF3A</item>
+		<!-- Secondary color -->
+		<item>@color/white</item>
+		<!-- Additional color -->
+		<item>#63FAFC</item>
+		<!-- First player color -->
+		<item>@color/green</item>
+		<!-- Second player color -->
+		<item>#FF406E</item>
+		<!-- Text color -->
+		<item>@color/black</item>
+	</array>
+    <color name="black">#000000</color>
+    <color name="green">#37D10C</color>
+    <color name="red">#f44336</color>
+    <color name="smoke">#c0ffffff</color>
+    <color name="turquoise">#00BBD7</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffeb3b</color>
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen"/>
+    <style name="button">
+	<item name="android:textSize">16sp</item>
+	<item name="android:textColor">@color/black</item>
+	<item name="android:layout_width">wrap_content</item>
+	<item name="android:layout_height">wrap_content</item>
+	<item name="android:layout_marginLeft">10dp</item>
+	<item name="android:background">@drawable/buttonshape</item>
+</style>
+    <style name="button.menu">
+	<item name="android:layout_width">fill_parent</item>
+	<item name="android:layout_marginLeft">0dp</item>
+	<item name="android:layout_marginTop">10dp</item>
+	<item name="android:background">@drawable/menubuttonshape</item>
+</style>
+</resources>
